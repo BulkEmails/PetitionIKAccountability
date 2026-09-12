@@ -46,6 +46,7 @@ Political leadership cannot place anyone above the law. Pakistan’s institution
 We therefore demand equal application of the law, credible investigations, due process, and appropriate legal action wherever wrongdoing is established by evidence.
 
 No one is above the law. Pakistan belongs to its people, and its Constitution and institutions must be protected.
+
 Sincerely,`;
             // Display the initial default email body
             emailTextArea.textContent = defaultEmailBody;
