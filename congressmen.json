@@ -1,12 +1,12 @@
 {
   "congressmen": [
     {
-      "name": "Office of the UN High Commissioner for Human Rights (OHCHR)",
-      "email": "civilsociety@ohchr.org"
+      "name": "Foreign Affairs Committee, UK Parliament",
+      "email": "fac@parliament.uk"
     },
     {
-      "name": "Amnesty International",
-      "email": "contactus@amnesty.org"
+      "name": "Foreign, Commonwealth & Development Office (FCDO)",
+      "email": "fcdo.correspondence@fcdo.gov.uk"
     }
   ]
 }
